@@ -15,7 +15,7 @@ A Flutter-NodeJs-MongodB project to add-view the expenses.
 
 <h2> Technical Details: </h2>
 <ol>
-<li><h5> Flutter - For front end development </h5></li>
+<li><h5> Flutter - Front end development </h5></li>
 <li><h5> NodeJs - Backend development </h5></li>
 <li><h5> Mongod - Database </h5></li>
 <ol>
