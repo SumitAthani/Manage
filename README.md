@@ -1,4 +1,4 @@
-# manage
+# Manage
 
 A new Flutter project.
 
@@ -6,11 +6,9 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<h4>A need to manage expenses, day to day for everyone is essential. It is essential to know the expenses to work on the savings. Most of the people use their mobile phones till the end of the day. And an mobile app to remember the expenses sounds great. So I decided to create a Application to maintain the expenses</h4>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h2> Technical Details: </h2>
+<h4> Flutter - For front end development </h4>
+<h4> NodeJs - Backend development </h4>
+<h4> Mongod - Database </h4>
