@@ -19,3 +19,8 @@ A Flutter-NodeJs-MongodB project to add-view the expenses.
 <li><h5> NodeJs - Backend development </h5></li>
 <li><h5> Mongod - Database </h5></li>
 <ol>
+
+  
+## Conclusion:
+  
+  ### A app is created with a size of 6.8MB with easy to use user expirience.
