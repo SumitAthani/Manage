@@ -4,7 +4,7 @@ A Flutter-NodeJs-MongodB project to add-view the expenses.
 ## Motivation
 <h5>A need to manage expenses, day to day expenes for everyone is essential. It is essential to know the expenses to work on the savings. Most of the people use their mobile phones till the end of the day. And an mobile app to remember the expenses sounds great. So I decided to create a Application to maintain the expenses</h5>
 
-
+### Screen Shots of the App
 <p align="center">
   <img src="https://github.com/SumitAthani/Manage/blob/main/Screen%20Shots/Welcome%20Page.png" width="25%" height="50%" title="hover text">
   <img src="https://github.com/SumitAthani/Manage/blob/main/Screen%20Shots/Add%20list%20item.png" width="25%" height="50%" title="hover text">
