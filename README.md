@@ -1,4 +1,4 @@
-# Manage
+# Manage Flutter Version 1
 A Flutter-NodeJs-MongodB project to add-view the expenses.
 
 ## Motivation
